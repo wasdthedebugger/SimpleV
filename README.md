@@ -1,6 +1,6 @@
 # SimpleV: Matrix to HTML Image Generator
 
-`SimpleV` is a Python class that generates an HTML file representing a visual image based on a given matrix. Each element in the matrix corresponds to a colored cell in the output HTML, making it easy to visualize data in a grid format. Can be used to create simple visuals for small projects.
+`SimpleV` is a Python class that generates an HTML file representing a visual image based on a given matrix. Each element in the matrix corresponds to a colored cell in the output HTML, making it easy to visualize data in a grid format. Can be used to create simple visuals for small projects and teach the concept of pixels and images to students.
 
 ## Features
 
